@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pwagram-2f5b6.appspot.com/o/San_Francisco_from_the_Marin_Headlands_in_March_2019.jpeg?alt=media&token=d9ae09ec-c5ba-4141-a2b7-4ef8277b1e27",
+      "location": "In San Francisco",
+      "title": "Awesome trip to SF!"
+    }
+  ]
+}
